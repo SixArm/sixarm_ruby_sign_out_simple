@@ -1,5 +1,5 @@
 
-= SixArm Ruby Gem: Sign Out Simple
+= SixArm Ruby Gem: SignOutSimple provides typical sign out for a Rails web application
 
 Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
 Copyright:: Copyright (c) 2006-2010 Joel Parker Henderson
