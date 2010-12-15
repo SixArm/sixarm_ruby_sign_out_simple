@@ -1,13 +1,15 @@
+# -*- encoding: utf-8 -*-
 =begin rdoc
 
-= SixArm Ruby Gem: SignOutSimple provides typical sign out for a Rails web application
+= SixArm Ruby Gem » SignOutSimple
 
 Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
 Copyright:: Copyright (c) 2006-2010 Joel Parker Henderson
-License:: CreativeCommons License, Non-commercial Share Alike
-License:: LGPL, GNU Lesser General Public License
+License:: Your choice of BSD, MIT, LGPL, or CreativeCommons Non-commercial Share Alike
 
-Sign Out Simple clears the current user and shows a flash message.
+SignOutSimple provides typical sign out for a Rails web application.
+
+It clears the current user's information and shows a flash message.
 
 The controller must define this method to clear the user:
   current_user=(nil)
