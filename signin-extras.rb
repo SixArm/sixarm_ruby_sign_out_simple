@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+#
 # = Sign Out Simple
 #
 # Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
