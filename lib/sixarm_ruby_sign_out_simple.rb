@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 =begin rdoc
 
 = SixArm.com » Ruby » SignOutSimple gem for typical Rails user sign out
@@ -15,7 +16,7 @@ The controller must define this method to clear the user:
   current_user=(nil)
 
 Routes must be able to redirect_to:
-  :sign_out_success 
+  :sign_out_success
   :sign_out_failure
 
 =end
@@ -25,7 +26,7 @@ require 'sixarm_ruby_sign_out'
 module SignOutSimple
 
  ####################################################################
- # 
+ #
  # Implement interface of SignInSignOut
  #
  ####################################################################
@@ -46,9 +47,9 @@ module SignOutSimple
   redirect_to :sign_out_failure
  end
 
-  
+
  ####################################################################
- # 
+ #
  # Helpers
  #
  ####################################################################
