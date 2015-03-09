@@ -1,4 +1,4 @@
-# SixArm.com » Ruby » <br> SignOutSimple gem for typical Rails user sign out
+# Ruby » <br> SignOutSimple gem for typical Rails user sign out
 
 * Doc: <http://sixarm.com/sixarm_ruby_sign_out_simple/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_sign_out_simple>
