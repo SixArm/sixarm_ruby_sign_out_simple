@@ -3,7 +3,7 @@
 Please see README
 =end
 
-require 'sixarm_ruby_sign_out'
+require "sixarm_ruby_sign_out"
 
 module SignOutSimple
 
