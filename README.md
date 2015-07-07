@@ -53,8 +53,3 @@ Routes must be able to redirect_to:
 
     :sign_out_success 
     :sign_out_failure
-
-
-## Changes
-
-* 2012-03-14 1.1.4 Update docs, tests
