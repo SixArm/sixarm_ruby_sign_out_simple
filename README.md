@@ -1,4 +1,7 @@
-# Ruby » <br> SignOutSimple gem for typical Rails user sign out
+# SixArm.com » Ruby » <br> SignOutSimple gem for typical Rails user sign out
+
+[![Code Climate](https://codeclimate.com/github/SixArm/sixarm_ruby_sign_out_simple.png)](https://codeclimate.com/github/SixArm/sixarm_ruby_sign_out_simple)
+[![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_sign_out_simple.png)](https://travis-ci.org/SixArm/sixarm_ruby_sign_out_simple)
 
 * Doc: <http://sixarm.com/sixarm_ruby_sign_out_simple/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_sign_out_simple>
@@ -23,7 +26,7 @@ Install:
 
 Bundler:
 
-    gem "sixarm_ruby_sign_out_simple", "~>1.1.4"
+    gem "sixarm_ruby_sign_out_simple", ">=1.1.5", "<2"
 
 Require:
 
@@ -51,5 +54,5 @@ The controller must define this method to clear the user:
 
 Routes must be able to redirect_to:
 
-    :sign_out_success 
+    :sign_out_success
     :sign_out_failure
