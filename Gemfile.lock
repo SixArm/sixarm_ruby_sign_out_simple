@@ -26,6 +26,9 @@ GEM
       json (~> 1.8)
       simplecov-html (~> 0.10.0)
     simplecov-html (0.10.0)
+    sixarm_ruby_action_controller_mock (1.0.8)
+    sixarm_ruby_application_controller_mock (1.2.7)
+      sixarm_ruby_action_controller_mock (>= 1.0.0, < 2)
     sixarm_ruby_sign_out (1.1.5)
     term-ansicolor (1.3.2)
       tins (~> 1.0)
@@ -43,6 +46,7 @@ DEPENDENCIES
   minitest (>= 5.7.0, < 6)
   rake (>= 10.4.2, < 11)
   simplecov (>= 0.10.0, < 1)
+  sixarm_ruby_application_controller_mock (> 0, < 999)
   sixarm_ruby_sign_out
 
 BUNDLED WITH
