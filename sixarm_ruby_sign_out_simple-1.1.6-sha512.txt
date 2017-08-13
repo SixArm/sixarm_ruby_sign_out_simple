@@ -1,0 +1,1 @@
+ee9dfff3fd12b93b7e75ad4dcd31d32a8442b75bdcf456201f9597577f3e0aa5c36f293103ddce1cc9e2bfcd8800020979958bd7c735ce5eb11f48ddb2740036  sixarm_ruby_sign_out_simple-1.1.6.gem

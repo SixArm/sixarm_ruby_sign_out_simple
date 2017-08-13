@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.name           = "sixarm_ruby_sign_out_simple"
   s.summary        = "SixArm.com → Ruby → Sign Out Simple"
   s.description    = "Sign Out methods for a  a simple session in a Rails application"
-  s.version        = "1.1.5"
+  s.version        = "1.1.6"
 
   s.author         = "SixArm"
   s.email          = "sixarm@sixarm.com"
