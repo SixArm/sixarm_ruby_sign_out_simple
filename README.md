@@ -4,7 +4,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/sixarm_ruby_sign_out_simple.svg)](http://badge.fury.io/rb/sixarm_ruby_sign_out_simple)
 [![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_sign_out_simple.png)](https://travis-ci.org/SixArm/sixarm_ruby_sign_out_simple)
-[![Code Climate Maintainability](https://api.codeclimate.com/v1/badges/$id/maintainability)](https://codeclimate.com/github/SixArm/$dir/maintainability)
+[![Code Climate Maintainability](https://api.codeclimate.com/v1/badges/1073c786b54e72b32fe2/maintainability)](https://codeclimate.com/github/SixArm/sixarm_ruby_sign_out_simple/maintainability)
 [![Coverage Status](https://coveralls.io/repos/SixArm/sixarm_ruby_sign_out_simple/badge.svg?branch=master&service=github)](https://coveralls.io/github/SixArm/sixarm_ruby_sign_out_simple?branch=master)
 
 * Git: <https://github.com/sixarm/sixarm_ruby_sign_out_simple>
